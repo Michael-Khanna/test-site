@@ -1,0 +1,20 @@
+h2 {
+  color: magenta;
+  font-size: 60px;
+  text-align: center;
+  line-height: 1.5;
+  letter-spacing: 1px;
+  background-color: yellow;
+    
+}
+
+img {
+    display:block;
+    margin: 0 auto;
+    background-color: pink;
+}
+
+body{
+background-color:black;    
+
+}
