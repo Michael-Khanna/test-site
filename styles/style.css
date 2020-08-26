@@ -1,10 +1,10 @@
 h2 {
-  color: magenta;
+  color: Pink;
   font-size: 60px;
   text-align: center;
   line-height: 1.5;
   letter-spacing: 1px;
-  background-color: yellow;
+  background-color: black;
     
 }
 
@@ -17,4 +17,9 @@ img {
 body{
 background-color:Grey;    
 
+}
+
+button{
+    background-color:Black;
+    color:Pink;
 }
