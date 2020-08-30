@@ -14,17 +14,13 @@ img {
     background-color: pink;
 }
 
-body{
-background-color:Pink;    
-
+body, label{
+background-color:pink;    
+color:black;
 }
 
-button{
+button, input{
     background-color:Black;
     color:Pink;
 }
 
-input{
-    background-color:Black;
-    color:Pink;
-}
