@@ -1,4 +1,5 @@
 h2 {
+     font-family: Comic Sans MS;
   color: Pink;
   font-size: 60px;
   text-align: center;
@@ -9,17 +10,20 @@ h2 {
 }
 
 img {
+     font-family: Comic Sans MS;
     display:block;
     margin: 0 auto;
     background-color: pink;
 }
 
 body, label{
+     font-family: Comic Sans MS;
 background-color:pink;    
 color:black;
 }
 
 button, input{
+    font-family: Comic Sans MS;
     background-color:Black;
     color:Pink;
 }
