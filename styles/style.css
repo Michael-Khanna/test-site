@@ -6,7 +6,7 @@ h2 {
   line-height: 1.5;
   letter-spacing: 1px;
   background-color: black;
-    
+
 }
 
 img {
@@ -18,8 +18,7 @@ img {
 
 body, label{
      font-family: Comic Sans MS;
-background-color:pink;    
-color:black;
+background-color:Pink;
 }
 
 button, input{
@@ -27,4 +26,3 @@ button, input{
     background-color:Black;
     color:Pink;
 }
-
